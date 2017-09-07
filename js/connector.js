@@ -1,5 +1,4 @@
 
-
 connectToState = dataSelector => {
   let prevState;
 
